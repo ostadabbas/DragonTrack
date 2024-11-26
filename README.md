@@ -94,3 +94,19 @@ Run the script to create necessary folders.
 ## Benchmark Evaluation
 
 Pre-processed Tracktor detection files from [this repository](https://github.com/dvl-tum/mot_neural_solver) were used for benchmark evaluation.
+
+
+## Citation
+
+If you use this code or dataset for your research, please consider citing our paper:
+
+```bibtex
+@inproceedings{Amraee2025DragonTrack,
+  title={Transformer-Enhanced Graphical Multi-Person Tracking in Complex Scenarios},
+  author={Bishoy Galoaa and Somaieh Amraee and Sarah Ostadabbas},
+  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  month={1},
+  year={2025}
+}
+
+
